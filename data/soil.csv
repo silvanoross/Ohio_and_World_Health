@@ -1,0 +1,1083 @@
+﻿Location,Samp_No,SampleDate_txt,SampleTime,Matrix,SampleMedia,Activity,Analytical_Method,CAS_NO,Analyte,Result_Units,Reporting_Limit,Validation_Level,Result_Final_Txt,Result_Qualifier_Final,RL_Comparison
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,75-69-4,Trichlorofluoromethane,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,75-01-4,Vinyl Chloride,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,1330-20-7,"Xylenes, Total",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8015D,DROC10C28,DRO (C10-C28),mg/Kg,9600,Prelim,<9600,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8015D,OROC28C40,ORO (C28-C40),mg/Kg,9600,Prelim,<9600,J,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,108-60-1,"2,2`-Oxybis(1-chloropropane)",mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,58-90-2,"2,3,4,6-Tetrachlorophenol",mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,95-95-4,"2,4,5-Trichlorophenol",mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,88-06-2,"2,4,6-Trichlorophenol",mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,120-83-2,"2,4-Dichlorophenol",mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,105-67-9,"2,4-Dimethylphenol",mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,51-28-5,"2,4-Dinitrophenol",mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,88-75-5,2-Nitrophenol,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,84989-04-8,3&4-Methylphenol,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,91-94-1,"3,3´-Dichlorobenzidine",mg/Kg,610,Prelim,<610,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,99-09-2,3-Nitroaniline,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,534-52-1,"4,6-Dinitro-2-methylphenol",mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,101-55-3,4-Bromophenyl phenyl ether,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,59-50-7,4-Chloro-3-methylphenol,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8015D,GROC6C10,GRO (C6-C10),mg/kg,7.7,Prelim,<7.7,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,92-52-4,"1,1`-Biphenyl",mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,95-94-3,"1,2,4,5-Tetrachlorobenzene",mg/Kg,610,Prelim,<610,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,123-91-1,"1,4-Dioxane",mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,90-12-0,1-Methylnaphthalene,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,121-14-2,"2,4-Dinitrotoluene",mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,606-20-2,"2,6-Dinitrotoluene",mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,91-58-7,2-Chloronaphthalene,mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,95-57-8,2-Chlorophenol,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,91-57-6,2-Methylnaphthalene,mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,95-48-7,2-Methylphenol,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,88-74-4,2-Nitroaniline,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,106-47-8,4-Chloroaniline,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,7005-72-3,4-Chlorophenyl phenyl ether,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,100-01-6,4-Nitroaniline,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,100-02-7,4-Nitrophenol,mg/Kg,610,Prelim,<610,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,83-32-9,Acenaphthene,mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,208-96-8,Acenaphthylene,mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,98-86-2,Acetophenone,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,207-08-9,Benzo(k)fluoranthene,mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,111-91-1,Bis(2-chloroethoxy)methane,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,111-44-4,Bis(2-chloroethyl)ether,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,117-81-7,Bis(2-ethylhexyl)phthalate,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,85-68-7,Butyl benzyl phthalate,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,105-60-2,Caprolactam,mg/Kg,610,Prelim,<610,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,86-74-8,Carbazole,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,218-01-9,Chrysene,mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,53-70-3,"Dibenzo(a,h)anthracene",mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,132-64-9,Dibenzofuran,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,84-66-2,Diethyl phthalate,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,131-11-3,Dimethyl phthalate,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,84-74-2,Di-n-butyl phthalate,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,117-84-0,Di-n-octyl phthalate,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,78-59-1,Isophorone,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,91-20-3,Naphthalene,mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,98-95-3,Nitrobenzene,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,621-64-7,N-Nitrosodi-n-propylamine,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,86-30-6,N-Nitrosodiphenylamine,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,87-86-5,Pentachlorophenol,mg/Kg,610,Prelim,<610,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,85-01-8,Phenanthrene,mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,120-12-7,Anthracene,mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,1912-24-9,Atrazine,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,100-52-7,Benzaldehyde,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,56-55-3,Benzo(a)anthracene,mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,50-32-8,Benzo(a)pyrene,mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,205-99-2,Benzo(b)fluoranthene,mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,191-24-2,"Benzo(g,h,i)perylene",mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,206-44-0,Fluoranthene,mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,86-73-7,Fluorene,mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,118-74-1,Hexachlorobenzene,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,87-68-3,Hexachlorobutadiene,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,77-47-4,Hexachlorocyclopentadiene,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,67-72-1,Hexachloroethane,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,193-39-5,"Indeno(1,2,3-cd)pyrene",mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,108-95-2,Phenol,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,129-00-0,Pyrene,mg/Kg,12,Prelim,<12,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW846 8270D,110-86-1,Pyridine,mg/Kg,61,Prelim,<61,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,71-55-6,"1,1,1-Trichloroethane",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,79-34-5,"1,1,2,2-Tetrachloroethane",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,79-00-5,"1,1,2-Trichloroethane",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,76-13-1,"1,1,2-Trichlorotrifluoroethane",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,75-34-3,"1,1-Dichloroethane",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,75-35-4,"1,1-Dichloroethene",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,87-61-6,"1,2,3-Trichlorobenzene",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,96-18-4,"1,2,3-Trichloropropane",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,120-82-1,"1,2,4-Trichlorobenzene",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,95-63-6,"1,2,4-Trimethylbenzene",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,96-12-8,"1,2-Dibromo 3-Chloropropane",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,106-93-4,"1,2-Dibromoethane",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,95-50-1,"1,2-Dichlorobenzene",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,107-06-2,"1,2-Dichloroethane",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,78-87-5,"1,2-Dichloropropane",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,108-67-8,"1,3,5-Trimethylbenzene",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,541-73-1,"1,3-Dichlorobenzene",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,106-46-7,"1,4-Dichlorobenzene",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,78-93-3,2-Butanone,mg/kg,0.013,Prelim,<0.013,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,591-78-6,2-Hexanone,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,108-10-1,4-Methyl-2-pentanone,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,67-64-1,Acetone,mg/kg,0.013,Prelim,0.025,,Yes
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,71-43-2,Benzene,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,74-97-5,Bromochloromethane,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,75-27-4,Bromodichloromethane,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,75-25-2,Bromoform,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,74-83-9,Bromomethane,mg/kg,0.013,Prelim,<0.013,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,75-15-0,Carbon disulfide,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,124-48-1,Dibromochloromethane,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,75-71-8,Dichlorodifluoromethane (CFC 12),mg/kg,0.013,Prelim,<0.013,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,100-41-4,Ethylbenzene,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,98-82-8,Isopropylbenzene,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,179601-23-1,"m,p-Xylenes",mg/kg,0.0032,Prelim,<0.0032,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,79-20-9,Methyl acetate,mg/kg,0.013,Prelim,<0.013,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,1634-04-4,Methyl tert-butyl ether,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,108-87-2,Methylcyclohexane,mg/kg,0.013,Prelim,<0.013,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,75-09-2,Methylene chloride,mg/kg,0.013,Prelim,<0.013,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,95-47-6,o-Xylene,mg/kg,0.0032,Prelim,<0.0032,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,100-42-5,Styrene,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,127-18-4,Tetrachloroethene,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,108-88-3,Toluene,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,156-60-5,"trans-1,2-Dichloroethene",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,10061-02-6,"trans-1,3-Dichloropropene",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,79-01-6,Trichloroethene,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,56-23-5,Carbon Tetrachloride,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,108-90-7,Chlorobenzene,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,75-00-3,Chloroethane,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,67-66-3,Chloroform,mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,74-87-3,Chloromethane,mg/kg,0.013,Prelim,<0.013,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,156-59-2,"cis-1,2-Dichloroethene",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,10061-01-5,"cis-1,3-Dichloropropene",mg/kg,0.0064,Prelim,<0.0064,U,No
+SD-01,EPD-SD01-SR-230208,2/8/2023,17:55,Sediment,Sediment,Soil,SW8260D,110-82-7,Cyclohexane,mg/kg,0.013,Prelim,<0.013,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8015D,DROC10C28,DRO (C10-C28),mg/Kg,9600,Prelim,<9600,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8015D,OROC28C40,ORO (C28-C40),mg/Kg,9600,Prelim,<9600,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8015D,GROC6C10,GRO (C6-C10),mg/kg,7.8,Prelim,<7.8,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,92-52-4,"1,1`-Biphenyl",mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,95-94-3,"1,2,4,5-Tetrachlorobenzene",mg/Kg,610,Prelim,<610,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,123-91-1,"1,4-Dioxane",mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,90-12-0,1-Methylnaphthalene,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,108-60-1,"2,2`-Oxybis(1-chloropropane)",mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,58-90-2,"2,3,4,6-Tetrachlorophenol",mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,95-95-4,"2,4,5-Trichlorophenol",mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,88-06-2,"2,4,6-Trichlorophenol",mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,120-83-2,"2,4-Dichlorophenol",mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,105-67-9,"2,4-Dimethylphenol",mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,51-28-5,"2,4-Dinitrophenol",mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,88-75-5,2-Nitrophenol,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,84989-04-8,3&4-Methylphenol,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,91-94-1,"3,3´-Dichlorobenzidine",mg/Kg,610,Prelim,<610,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,99-09-2,3-Nitroaniline,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,534-52-1,"4,6-Dinitro-2-methylphenol",mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,101-55-3,4-Bromophenyl phenyl ether,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,59-50-7,4-Chloro-3-methylphenol,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,106-47-8,4-Chloroaniline,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,7005-72-3,4-Chlorophenyl phenyl ether,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,100-01-6,4-Nitroaniline,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,100-02-7,4-Nitrophenol,mg/Kg,610,Prelim,<610,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,83-32-9,Acenaphthene,mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,208-96-8,Acenaphthylene,mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,98-86-2,Acetophenone,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,121-14-2,"2,4-Dinitrotoluene",mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,606-20-2,"2,6-Dinitrotoluene",mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,91-58-7,2-Chloronaphthalene,mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,95-57-8,2-Chlorophenol,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,91-57-6,2-Methylnaphthalene,mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,95-48-7,2-Methylphenol,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,88-74-4,2-Nitroaniline,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,120-12-7,Anthracene,mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,1912-24-9,Atrazine,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,100-52-7,Benzaldehyde,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,56-55-3,Benzo(a)anthracene,mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,50-32-8,Benzo(a)pyrene,mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,205-99-2,Benzo(b)fluoranthene,mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,191-24-2,"Benzo(g,h,i)perylene",mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,207-08-9,Benzo(k)fluoranthene,mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,111-91-1,Bis(2-chloroethoxy)methane,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,111-44-4,Bis(2-chloroethyl)ether,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,117-81-7,Bis(2-ethylhexyl)phthalate,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,85-68-7,Butyl benzyl phthalate,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,105-60-2,Caprolactam,mg/Kg,610,Prelim,<610,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,86-74-8,Carbazole,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,206-44-0,Fluoranthene,mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,86-73-7,Fluorene,mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,118-74-1,Hexachlorobenzene,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,87-68-3,Hexachlorobutadiene,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,77-47-4,Hexachlorocyclopentadiene,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,67-72-1,Hexachloroethane,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,193-39-5,"Indeno(1,2,3-cd)pyrene",mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,108-95-2,Phenol,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,129-00-0,Pyrene,mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,110-86-1,Pyridine,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,71-55-6,"1,1,1-Trichloroethane",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,79-34-5,"1,1,2,2-Tetrachloroethane",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,79-00-5,"1,1,2-Trichloroethane",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,76-13-1,"1,1,2-Trichlorotrifluoroethane",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,75-34-3,"1,1-Dichloroethane",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,75-35-4,"1,1-Dichloroethene",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,87-61-6,"1,2,3-Trichlorobenzene",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,106-93-4,"1,2-Dibromoethane",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,95-50-1,"1,2-Dichlorobenzene",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,107-06-2,"1,2-Dichloroethane",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,78-87-5,"1,2-Dichloropropane",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,218-01-9,Chrysene,mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,53-70-3,"Dibenzo(a,h)anthracene",mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,132-64-9,Dibenzofuran,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,84-66-2,Diethyl phthalate,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,131-11-3,Dimethyl phthalate,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,84-74-2,Di-n-butyl phthalate,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,117-84-0,Di-n-octyl phthalate,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,78-59-1,Isophorone,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,91-20-3,Naphthalene,mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,98-95-3,Nitrobenzene,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,621-64-7,N-Nitrosodi-n-propylamine,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,86-30-6,N-Nitrosodiphenylamine,mg/Kg,61,Prelim,<61,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,87-86-5,Pentachlorophenol,mg/Kg,610,Prelim,<610,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW846 8270D,85-01-8,Phenanthrene,mg/Kg,12,Prelim,<12,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,96-18-4,"1,2,3-Trichloropropane",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,120-82-1,"1,2,4-Trichlorobenzene",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,95-63-6,"1,2,4-Trimethylbenzene",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,96-12-8,"1,2-Dibromo 3-Chloropropane",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,108-67-8,"1,3,5-Trimethylbenzene",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,541-73-1,"1,3-Dichlorobenzene",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,106-46-7,"1,4-Dichlorobenzene",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,78-93-3,2-Butanone,mg/kg,0.013,Prelim,<0.013,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,74-97-5,Bromochloromethane,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,75-27-4,Bromodichloromethane,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,75-25-2,Bromoform,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,74-83-9,Bromomethane,mg/kg,0.013,Prelim,<0.013,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,75-15-0,Carbon disulfide,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,56-23-5,Carbon Tetrachloride,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,108-90-7,Chlorobenzene,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,75-00-3,Chloroethane,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,67-66-3,Chloroform,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,74-87-3,Chloromethane,mg/kg,0.013,Prelim,<0.013,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,156-59-2,"cis-1,2-Dichloroethene",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,10061-01-5,"cis-1,3-Dichloropropene",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,98-82-8,Isopropylbenzene,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,179601-23-1,"m,p-Xylenes",mg/kg,0.0032,Prelim,<0.0032,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,79-20-9,Methyl acetate,mg/kg,0.013,Prelim,<0.013,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,1634-04-4,Methyl tert-butyl ether,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,591-78-6,2-Hexanone,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,108-10-1,4-Methyl-2-pentanone,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,67-64-1,Acetone,mg/kg,0.013,Prelim,0.028,,Yes
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,71-43-2,Benzene,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,110-82-7,Cyclohexane,mg/kg,0.013,Prelim,<0.013,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,124-48-1,Dibromochloromethane,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,75-71-8,Dichlorodifluoromethane (CFC 12),mg/kg,0.013,Prelim,<0.013,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,100-41-4,Ethylbenzene,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,108-87-2,Methylcyclohexane,mg/kg,0.013,Prelim,<0.013,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,75-09-2,Methylene chloride,mg/kg,0.013,Prelim,<0.013,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,95-47-6,o-Xylene,mg/kg,0.0032,Prelim,<0.0032,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,100-42-5,Styrene,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,127-18-4,Tetrachloroethene,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,108-88-3,Toluene,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,156-60-5,"trans-1,2-Dichloroethene",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,10061-02-6,"trans-1,3-Dichloropropene",mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,79-01-6,Trichloroethene,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,75-69-4,Trichlorofluoromethane,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,75-01-4,Vinyl Chloride,mg/kg,0.0063,Prelim,<0.0063,U,No
+SD-04,EPD-SD04-SR-230208,2/8/2023,17:45,Sediment,Sediment,Soil,SW8260D,1330-20-7,"Xylenes, Total",mg/kg,0.0063,Prelim,<0.0063,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8015D,DROC10C28,DRO (C10-C28),mg/Kg,8000,Prelim,9500,,Yes
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8015D,OROC28C40,ORO (C28-C40),mg/Kg,8000,Prelim,130000,,Yes
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8015D,GROC6C10,GRO (C6-C10),mg/kg,11,Prelim,<11,J,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,92-52-4,"1,1`-Biphenyl",mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,95-94-3,"1,2,4,5-Tetrachlorobenzene",mg/Kg,530,Prelim,<530,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,105-67-9,"2,4-Dimethylphenol",mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,51-28-5,"2,4-Dinitrophenol",mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,121-14-2,"2,4-Dinitrotoluene",mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,606-20-2,"2,6-Dinitrotoluene",mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,91-58-7,2-Chloronaphthalene,mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,95-57-8,2-Chlorophenol,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,91-57-6,2-Methylnaphthalene,mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,101-55-3,4-Bromophenyl phenyl ether,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,59-50-7,4-Chloro-3-methylphenol,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,106-47-8,4-Chloroaniline,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,7005-72-3,4-Chlorophenyl phenyl ether,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,100-01-6,4-Nitroaniline,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,100-02-7,4-Nitrophenol,mg/Kg,530,Prelim,<530,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,83-32-9,Acenaphthene,mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,205-99-2,Benzo(b)fluoranthene,mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,191-24-2,"Benzo(g,h,i)perylene",mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,207-08-9,Benzo(k)fluoranthene,mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,111-91-1,Bis(2-chloroethoxy)methane,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,111-44-4,Bis(2-chloroethyl)ether,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,117-81-7,Bis(2-ethylhexyl)phthalate,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,85-68-7,Butyl benzyl phthalate,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,123-91-1,"1,4-Dioxane",mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,90-12-0,1-Methylnaphthalene,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,108-60-1,"2,2`-Oxybis(1-chloropropane)",mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,58-90-2,"2,3,4,6-Tetrachlorophenol",mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,95-95-4,"2,4,5-Trichlorophenol",mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,88-06-2,"2,4,6-Trichlorophenol",mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,120-83-2,"2,4-Dichlorophenol",mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,95-48-7,2-Methylphenol,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,88-74-4,2-Nitroaniline,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,88-75-5,2-Nitrophenol,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,84989-04-8,3&4-Methylphenol,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,91-94-1,"3,3´-Dichlorobenzidine",mg/Kg,530,Prelim,<530,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,99-09-2,3-Nitroaniline,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,534-52-1,"4,6-Dinitro-2-methylphenol",mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,208-96-8,Acenaphthylene,mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,98-86-2,Acetophenone,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,120-12-7,Anthracene,mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,1912-24-9,Atrazine,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,100-52-7,Benzaldehyde,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,56-55-3,Benzo(a)anthracene,mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,50-32-8,Benzo(a)pyrene,mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,105-60-2,Caprolactam,mg/Kg,530,Prelim,<530,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,86-74-8,Carbazole,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,218-01-9,Chrysene,mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,53-70-3,"Dibenzo(a,h)anthracene",mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,132-64-9,Dibenzofuran,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,84-66-2,Diethyl phthalate,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,131-11-3,Dimethyl phthalate,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,67-72-1,Hexachloroethane,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,193-39-5,"Indeno(1,2,3-cd)pyrene",mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,78-59-1,Isophorone,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,91-20-3,Naphthalene,mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,98-95-3,Nitrobenzene,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,621-64-7,N-Nitrosodi-n-propylamine,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,86-30-6,N-Nitrosodiphenylamine,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,71-55-6,"1,1,1-Trichloroethane",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,79-34-5,"1,1,2,2-Tetrachloroethane",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,79-00-5,"1,1,2-Trichloroethane",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,76-13-1,"1,1,2-Trichlorotrifluoroethane",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,75-34-3,"1,1-Dichloroethane",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,75-35-4,"1,1-Dichloroethene",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,87-61-6,"1,2,3-Trichlorobenzene",mg/kg,0.18,Prelim,<0.18,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,96-18-4,"1,2,3-Trichloropropane",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,120-82-1,"1,2,4-Trichlorobenzene",mg/kg,0.18,Prelim,<0.18,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,84-74-2,Di-n-butyl phthalate,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,117-84-0,Di-n-octyl phthalate,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,206-44-0,Fluoranthene,mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,86-73-7,Fluorene,mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,118-74-1,Hexachlorobenzene,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,87-68-3,Hexachlorobutadiene,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,77-47-4,Hexachlorocyclopentadiene,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,87-86-5,Pentachlorophenol,mg/Kg,530,Prelim,<530,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,85-01-8,Phenanthrene,mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,108-95-2,Phenol,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,129-00-0,Pyrene,mg/Kg,11,Prelim,<11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW846 8270D,110-86-1,Pyridine,mg/Kg,53,Prelim,<53,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,95-63-6,"1,2,4-Trimethylbenzene",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,96-12-8,"1,2-Dibromo 3-Chloropropane",mg/kg,0.18,Prelim,<0.18,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,106-93-4,"1,2-Dibromoethane",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,95-50-1,"1,2-Dichlorobenzene",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,107-06-2,"1,2-Dichloroethane",mg/kg,0.18,Prelim,<0.18,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,78-87-5,"1,2-Dichloropropane",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,108-67-8,"1,3,5-Trimethylbenzene",mg/kg,0.18,Prelim,<0.18,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,74-97-5,Bromochloromethane,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,75-27-4,Bromodichloromethane,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,75-25-2,Bromoform,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,74-83-9,Bromomethane,mg/kg,0.18,Prelim,<0.18,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,75-15-0,Carbon disulfide,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,56-23-5,Carbon Tetrachloride,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,108-90-7,Chlorobenzene,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,75-71-8,Dichlorodifluoromethane (CFC 12),mg/kg,0.18,Prelim,<0.18,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,100-41-4,Ethylbenzene,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,98-82-8,Isopropylbenzene,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,179601-23-1,"m,p-Xylenes",mg/kg,0.11,Prelim,<0.11,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,79-20-9,Methyl acetate,mg/kg,0.44,Prelim,<0.44,J,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,1634-04-4,Methyl tert-butyl ether,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,108-87-2,Methylcyclohexane,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,79-01-6,Trichloroethene,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,75-69-4,Trichlorofluoromethane,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,75-01-4,Vinyl Chloride,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,1330-20-7,"Xylenes, Total",mg/kg,0.16,Prelim,<0.16,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,541-73-1,"1,3-Dichlorobenzene",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,106-46-7,"1,4-Dichlorobenzene",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,78-93-3,2-Butanone,mg/kg,0.35,Prelim,<0.35,J,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,591-78-6,2-Hexanone,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,108-10-1,4-Methyl-2-pentanone,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,67-64-1,Acetone,mg/kg,0.18,Prelim,0.25,,Yes
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,71-43-2,Benzene,mg/kg,0.053,Prelim,1.7,,Yes
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,75-00-3,Chloroethane,mg/kg,0.18,Prelim,<0.18,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,67-66-3,Chloroform,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,74-87-3,Chloromethane,mg/kg,0.18,Prelim,<0.18,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,156-59-2,"cis-1,2-Dichloroethene",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,10061-01-5,"cis-1,3-Dichloropropene",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,110-82-7,Cyclohexane,mg/kg,0.18,Prelim,<0.18,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,124-48-1,Dibromochloromethane,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,75-09-2,Methylene chloride,mg/kg,0.44,Prelim,<0.44,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,95-47-6,o-Xylene,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,100-42-5,Styrene,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,127-18-4,Tetrachloroethene,mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,108-88-3,Toluene,mg/kg,0.053,Prelim,0.085,,Yes
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,156-60-5,"trans-1,2-Dichloroethene",mg/kg,0.053,Prelim,<0.053,U,No
+SO5,EPD-SO5-230210,2/10/2023,11:34,Soil,Soil,Soil,SW8260D,10061-02-6,"trans-1,3-Dichloropropene",mg/kg,0.053,Prelim,<0.053,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8015D,DROC10C28,DRO (C10-C28),mg/Kg,9900,Prelim,<9900,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8015D,OROC28C40,ORO (C28-C40),mg/Kg,9900,Prelim,<9900,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8015D,GROC6C10,GRO (C6-C10),mg/kg,78,Prelim,110,,Yes
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,92-52-4,"1,1`-Biphenyl",mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,95-94-3,"1,2,4,5-Tetrachlorobenzene",mg/Kg,650,Prelim,<650,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,123-91-1,"1,4-Dioxane",mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,90-12-0,1-Methylnaphthalene,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,108-60-1,"2,2`-Oxybis(1-chloropropane)",mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,58-90-2,"2,3,4,6-Tetrachlorophenol",mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,95-95-4,"2,4,5-Trichlorophenol",mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,88-06-2,"2,4,6-Trichlorophenol",mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,120-83-2,"2,4-Dichlorophenol",mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,105-67-9,"2,4-Dimethylphenol",mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,51-28-5,"2,4-Dinitrophenol",mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,121-14-2,"2,4-Dinitrotoluene",mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,606-20-2,"2,6-Dinitrotoluene",mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,91-58-7,2-Chloronaphthalene,mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,95-57-8,2-Chlorophenol,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,91-57-6,2-Methylnaphthalene,mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,95-48-7,2-Methylphenol,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,88-74-4,2-Nitroaniline,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,88-75-5,2-Nitrophenol,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,84989-04-8,3&4-Methylphenol,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,91-94-1,"3,3´-Dichlorobenzidine",mg/Kg,650,Prelim,<650,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,99-09-2,3-Nitroaniline,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,534-52-1,"4,6-Dinitro-2-methylphenol",mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,101-55-3,4-Bromophenyl phenyl ether,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,59-50-7,4-Chloro-3-methylphenol,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,106-47-8,4-Chloroaniline,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,7005-72-3,4-Chlorophenyl phenyl ether,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,100-01-6,4-Nitroaniline,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,100-02-7,4-Nitrophenol,mg/Kg,650,Prelim,<650,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,83-32-9,Acenaphthene,mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,208-96-8,Acenaphthylene,mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,98-86-2,Acetophenone,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,120-12-7,Anthracene,mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,1912-24-9,Atrazine,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,100-52-7,Benzaldehyde,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,56-55-3,Benzo(a)anthracene,mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,50-32-8,Benzo(a)pyrene,mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,205-99-2,Benzo(b)fluoranthene,mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,191-24-2,"Benzo(g,h,i)perylene",mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,207-08-9,Benzo(k)fluoranthene,mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,111-91-1,Bis(2-chloroethoxy)methane,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,111-44-4,Bis(2-chloroethyl)ether,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,117-81-7,Bis(2-ethylhexyl)phthalate,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,85-68-7,Butyl benzyl phthalate,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,105-60-2,Caprolactam,mg/Kg,650,Prelim,<650,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,86-74-8,Carbazole,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,218-01-9,Chrysene,mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,53-70-3,"Dibenzo(a,h)anthracene",mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,132-64-9,Dibenzofuran,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,84-66-2,Diethyl phthalate,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,131-11-3,Dimethyl phthalate,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,84-74-2,Di-n-butyl phthalate,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,117-84-0,Di-n-octyl phthalate,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,206-44-0,Fluoranthene,mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,86-73-7,Fluorene,mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,118-74-1,Hexachlorobenzene,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,87-68-3,Hexachlorobutadiene,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,77-47-4,Hexachlorocyclopentadiene,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,67-72-1,Hexachloroethane,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,193-39-5,"Indeno(1,2,3-cd)pyrene",mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,78-59-1,Isophorone,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,91-20-3,Naphthalene,mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,98-95-3,Nitrobenzene,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,621-64-7,N-Nitrosodi-n-propylamine,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,86-30-6,N-Nitrosodiphenylamine,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,87-86-5,Pentachlorophenol,mg/Kg,650,Prelim,<650,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,85-01-8,Phenanthrene,mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,108-95-2,Phenol,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,129-00-0,Pyrene,mg/Kg,13,Prelim,<13,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW846 8270D,110-86-1,Pyridine,mg/Kg,65,Prelim,<65,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,71-55-6,"1,1,1-Trichloroethane",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,79-34-5,"1,1,2,2-Tetrachloroethane",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,79-00-5,"1,1,2-Trichloroethane",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,76-13-1,"1,1,2-Trichlorotrifluoroethane",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,75-34-3,"1,1-Dichloroethane",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,75-35-4,"1,1-Dichloroethene",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,87-61-6,"1,2,3-Trichlorobenzene",mg/kg,0.15,Prelim,<0.15,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,96-18-4,"1,2,3-Trichloropropane",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,120-82-1,"1,2,4-Trichlorobenzene",mg/kg,0.15,Prelim,<0.15,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,95-63-6,"1,2,4-Trimethylbenzene",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,96-12-8,"1,2-Dibromo 3-Chloropropane",mg/kg,0.15,Prelim,<0.15,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,106-93-4,"1,2-Dibromoethane",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,95-50-1,"1,2-Dichlorobenzene",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,107-06-2,"1,2-Dichloroethane",mg/kg,0.15,Prelim,<0.15,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,78-87-5,"1,2-Dichloropropane",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,108-67-8,"1,3,5-Trimethylbenzene",mg/kg,0.15,Prelim,<0.15,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,541-73-1,"1,3-Dichlorobenzene",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,106-46-7,"1,4-Dichlorobenzene",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,78-93-3,2-Butanone,mg/kg,0.31,Prelim,<0.31,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,591-78-6,2-Hexanone,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,108-10-1,4-Methyl-2-pentanone,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,67-64-1,Acetone,mg/kg,0.15,Prelim,<0.15,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,71-43-2,Benzene,mg/kg,0.046,Prelim,0.25,,Yes
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,74-97-5,Bromochloromethane,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,75-27-4,Bromodichloromethane,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,75-25-2,Bromoform,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,74-83-9,Bromomethane,mg/kg,0.15,Prelim,<0.15,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,75-15-0,Carbon disulfide,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,56-23-5,Carbon Tetrachloride,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,108-90-7,Chlorobenzene,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,75-00-3,Chloroethane,mg/kg,0.15,Prelim,<0.15,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,67-66-3,Chloroform,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,74-87-3,Chloromethane,mg/kg,0.15,Prelim,<0.15,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,156-59-2,"cis-1,2-Dichloroethene",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,10061-01-5,"cis-1,3-Dichloropropene",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,110-82-7,Cyclohexane,mg/kg,0.15,Prelim,<0.15,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,124-48-1,Dibromochloromethane,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,75-71-8,Dichlorodifluoromethane (CFC 12),mg/kg,0.15,Prelim,<0.15,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,100-41-4,Ethylbenzene,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,98-82-8,Isopropylbenzene,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,179601-23-1,"m,p-Xylenes",mg/kg,0.093,Prelim,<0.093,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,79-20-9,Methyl acetate,mg/kg,0.39,Prelim,<0.39,J,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,1634-04-4,Methyl tert-butyl ether,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,108-87-2,Methylcyclohexane,mg/kg,0.046,Prelim,0.12,,Yes
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,75-09-2,Methylene chloride,mg/kg,0.39,Prelim,<0.39,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,95-47-6,o-Xylene,mg/kg,0.046,Prelim,<0.046,J,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,100-42-5,Styrene,mg/kg,0.046,Prelim,<0.046,J,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,127-18-4,Tetrachloroethene,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,108-88-3,Toluene,mg/kg,0.046,Prelim,<0.046,J,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,156-60-5,"trans-1,2-Dichloroethene",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,10061-02-6,"trans-1,3-Dichloropropene",mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,79-01-6,Trichloroethene,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,75-69-4,Trichlorofluoromethane,mg/kg,0.046,Prelim,<0.046,U,No
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,75-01-4,Vinyl Chloride,mg/kg,0.046,Prelim,5,,Yes
+SO4,EPD-SO4-230210,2/10/2023,11:23,Soil,Soil,Soil,SW8260D,1330-20-7,"Xylenes, Total",mg/kg,0.14,Prelim,<0.14,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,85-68-7,Butyl benzyl phthalate,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,105-60-2,Caprolactam,mg/Kg,590,Prelim,<590,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,86-74-8,Carbazole,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,218-01-9,Chrysene,mg/Kg,12,Prelim,<12,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,53-70-3,"Dibenzo(a,h)anthracene",mg/Kg,12,Prelim,<12,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,132-64-9,Dibenzofuran,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,84-66-2,Diethyl phthalate,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,77-47-4,Hexachlorocyclopentadiene,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,67-72-1,Hexachloroethane,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,193-39-5,"Indeno(1,2,3-cd)pyrene",mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,78-59-1,Isophorone,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,91-20-3,Naphthalene,mg/Kg,12,Prelim,<12,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,98-95-3,Nitrobenzene,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,621-64-7,N-Nitrosodi-n-propylamine,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8015D,DROC10C28,DRO (C10-C28),mg/Kg,8800,Prelim,<8800,J,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8015D,OROC28C40,ORO (C28-C40),mg/Kg,8800,Prelim,57000,,Yes
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8015D,GROC6C10,GRO (C6-C10),mg/kg,11,Prelim,520,,Yes
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,92-52-4,"1,1`-Biphenyl",mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,95-94-3,"1,2,4,5-Tetrachlorobenzene",mg/Kg,590,Prelim,<590,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,123-91-1,"1,4-Dioxane",mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,90-12-0,1-Methylnaphthalene,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,108-60-1,"2,2`-Oxybis(1-chloropropane)",mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,58-90-2,"2,3,4,6-Tetrachlorophenol",mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,95-95-4,"2,4,5-Trichlorophenol",mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,88-06-2,"2,4,6-Trichlorophenol",mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,120-83-2,"2,4-Dichlorophenol",mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,105-67-9,"2,4-Dimethylphenol",mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,51-28-5,"2,4-Dinitrophenol",mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,121-14-2,"2,4-Dinitrotoluene",mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,606-20-2,"2,6-Dinitrotoluene",mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,91-58-7,2-Chloronaphthalene,mg/Kg,12,Prelim,<12,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,95-57-8,2-Chlorophenol,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,91-57-6,2-Methylnaphthalene,mg/Kg,12,Prelim,<12,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,95-48-7,2-Methylphenol,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,88-74-4,2-Nitroaniline,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,88-75-5,2-Nitrophenol,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,84989-04-8,3&4-Methylphenol,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,91-94-1,"3,3´-Dichlorobenzidine",mg/Kg,590,Prelim,<590,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,99-09-2,3-Nitroaniline,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,534-52-1,"4,6-Dinitro-2-methylphenol",mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,101-55-3,4-Bromophenyl phenyl ether,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,59-50-7,4-Chloro-3-methylphenol,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,106-47-8,4-Chloroaniline,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,7005-72-3,4-Chlorophenyl phenyl ether,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,100-01-6,4-Nitroaniline,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,100-02-7,4-Nitrophenol,mg/Kg,590,Prelim,<590,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,83-32-9,Acenaphthene,mg/Kg,12,Prelim,<12,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,208-96-8,Acenaphthylene,mg/Kg,12,Prelim,<12,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,98-86-2,Acetophenone,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,120-12-7,Anthracene,mg/Kg,12,Prelim,<12,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,1912-24-9,Atrazine,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,100-52-7,Benzaldehyde,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,56-55-3,Benzo(a)anthracene,mg/Kg,12,Prelim,<12,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,50-32-8,Benzo(a)pyrene,mg/Kg,12,Prelim,<12,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,205-99-2,Benzo(b)fluoranthene,mg/Kg,12,Prelim,<12,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,191-24-2,"Benzo(g,h,i)perylene",mg/Kg,12,Prelim,<12,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,207-08-9,Benzo(k)fluoranthene,mg/Kg,12,Prelim,<12,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,111-91-1,Bis(2-chloroethoxy)methane,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,111-44-4,Bis(2-chloroethyl)ether,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,117-81-7,Bis(2-ethylhexyl)phthalate,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,131-11-3,Dimethyl phthalate,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,84-74-2,Di-n-butyl phthalate,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,117-84-0,Di-n-octyl phthalate,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,206-44-0,Fluoranthene,mg/Kg,12,Prelim,14,,Yes
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,86-73-7,Fluorene,mg/Kg,12,Prelim,<12,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,118-74-1,Hexachlorobenzene,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,87-68-3,Hexachlorobutadiene,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,86-30-6,N-Nitrosodiphenylamine,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,87-86-5,Pentachlorophenol,mg/Kg,590,Prelim,<590,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,85-01-8,Phenanthrene,mg/Kg,12,Prelim,14,,Yes
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,108-95-2,Phenol,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,129-00-0,Pyrene,mg/Kg,12,Prelim,12,J,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW846 8270D,110-86-1,Pyridine,mg/Kg,59,Prelim,<59,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,71-55-6,"1,1,1-Trichloroethane",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,79-34-5,"1,1,2,2-Tetrachloroethane",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,79-00-5,"1,1,2-Trichloroethane",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,76-13-1,"1,1,2-Trichlorotrifluoroethane",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,75-34-3,"1,1-Dichloroethane",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,75-35-4,"1,1-Dichloroethene",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,87-61-6,"1,2,3-Trichlorobenzene",mg/kg,2,Prelim,<2,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,96-18-4,"1,2,3-Trichloropropane",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,120-82-1,"1,2,4-Trichlorobenzene",mg/kg,2,Prelim,<2,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,95-63-6,"1,2,4-Trimethylbenzene",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,96-12-8,"1,2-Dibromo 3-Chloropropane",mg/kg,2,Prelim,<2,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,106-93-4,"1,2-Dibromoethane",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,95-50-1,"1,2-Dichlorobenzene",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,107-06-2,"1,2-Dichloroethane",mg/kg,2,Prelim,<2,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,78-87-5,"1,2-Dichloropropane",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,108-67-8,"1,3,5-Trimethylbenzene",mg/kg,2,Prelim,<2,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,541-73-1,"1,3-Dichlorobenzene",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,106-46-7,"1,4-Dichlorobenzene",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,78-93-3,2-Butanone,mg/kg,4,Prelim,<4,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,591-78-6,2-Hexanone,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,108-10-1,4-Methyl-2-pentanone,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,67-64-1,Acetone,mg/kg,2,Prelim,<2,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,71-43-2,Benzene,mg/kg,0.6,Prelim,2.2,,Yes
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,74-97-5,Bromochloromethane,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,75-27-4,Bromodichloromethane,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,75-25-2,Bromoform,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,74-83-9,Bromomethane,mg/kg,2,Prelim,<2,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,75-15-0,Carbon disulfide,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,56-23-5,Carbon Tetrachloride,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,108-90-7,Chlorobenzene,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,75-00-3,Chloroethane,mg/kg,2,Prelim,<2,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,67-66-3,Chloroform,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,74-87-3,Chloromethane,mg/kg,2,Prelim,<2,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,156-59-2,"cis-1,2-Dichloroethene",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,10061-01-5,"cis-1,3-Dichloropropene",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,110-82-7,Cyclohexane,mg/kg,2,Prelim,<2,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,124-48-1,Dibromochloromethane,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,75-71-8,Dichlorodifluoromethane (CFC 12),mg/kg,2,Prelim,<2,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,100-41-4,Ethylbenzene,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,98-82-8,Isopropylbenzene,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,179601-23-1,"m,p-Xylenes",mg/kg,1.2,Prelim,<1.2,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,79-20-9,Methyl acetate,mg/kg,5,Prelim,<5,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,1634-04-4,Methyl tert-butyl ether,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,108-87-2,Methylcyclohexane,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,75-09-2,Methylene chloride,mg/kg,5,Prelim,<5,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,95-47-6,o-Xylene,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,100-42-5,Styrene,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,127-18-4,Tetrachloroethene,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,108-88-3,Toluene,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,156-60-5,"trans-1,2-Dichloroethene",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,10061-02-6,"trans-1,3-Dichloropropene",mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,79-01-6,Trichloroethene,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,75-69-4,Trichlorofluoromethane,mg/kg,0.6,Prelim,<0.6,U,No
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,75-01-4,Vinyl Chloride,mg/kg,0.6,Prelim,4.6,,Yes
+SO2,EPD-SO2-230210,2/10/2023,10:55,Soil,Soil,Soil,SW8260D,1330-20-7,"Xylenes, Total",mg/kg,1.8,Prelim,<1.8,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,127-18-4,Tetrachloroethene,mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,108-88-3,Toluene,mg/kg,0.048,Prelim,0.065,,Yes
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,156-60-5,"trans-1,2-Dichloroethene",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,10061-02-6,"trans-1,3-Dichloropropene",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,79-01-6,Trichloroethene,mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,75-69-4,Trichlorofluoromethane,mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,75-01-4,Vinyl Chloride,mg/kg,0.048,Prelim,3.9,,Yes
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8015D,DROC10C28,DRO (C10-C28),mg/Kg,9700,Prelim,<9700,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8015D,OROC28C40,ORO (C28-C40),mg/Kg,9700,Prelim,26000,,Yes
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8015D,GROC6C10,GRO (C6-C10),mg/kg,89,Prelim,420,,Yes
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,71-55-6,"1,1,1-Trichloroethane",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,79-34-5,"1,1,2,2-Tetrachloroethane",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,79-00-5,"1,1,2-Trichloroethane",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,76-13-1,"1,1,2-Trichlorotrifluoroethane",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,75-34-3,"1,1-Dichloroethane",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,75-35-4,"1,1-Dichloroethene",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,87-61-6,"1,2,3-Trichlorobenzene",mg/kg,0.16,Prelim,<0.16,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,96-18-4,"1,2,3-Trichloropropane",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,120-82-1,"1,2,4-Trichlorobenzene",mg/kg,0.16,Prelim,<0.16,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,95-63-6,"1,2,4-Trimethylbenzene",mg/kg,0.048,Prelim,0.06,,Yes
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,96-12-8,"1,2-Dibromo 3-Chloropropane",mg/kg,0.16,Prelim,<0.16,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,106-93-4,"1,2-Dibromoethane",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,95-50-1,"1,2-Dichlorobenzene",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,107-06-2,"1,2-Dichloroethane",mg/kg,0.16,Prelim,<0.16,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,78-87-5,"1,2-Dichloropropane",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,108-67-8,"1,3,5-Trimethylbenzene",mg/kg,0.16,Prelim,<0.16,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,541-73-1,"1,3-Dichlorobenzene",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,106-46-7,"1,4-Dichlorobenzene",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,78-93-3,2-Butanone,mg/kg,0.32,Prelim,<0.32,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,591-78-6,2-Hexanone,mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,108-10-1,4-Methyl-2-pentanone,mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,67-64-1,Acetone,mg/kg,0.16,Prelim,7.9,,Yes
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,71-43-2,Benzene,mg/kg,0.048,Prelim,0.28,,Yes
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,74-97-5,Bromochloromethane,mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,75-27-4,Bromodichloromethane,mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,75-25-2,Bromoform,mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,74-83-9,Bromomethane,mg/kg,0.16,Prelim,<0.16,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,75-15-0,Carbon disulfide,mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,56-23-5,Carbon Tetrachloride,mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,108-90-7,Chlorobenzene,mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,75-00-3,Chloroethane,mg/kg,0.16,Prelim,<0.16,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,67-66-3,Chloroform,mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,74-87-3,Chloromethane,mg/kg,0.16,Prelim,<0.16,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,156-59-2,"cis-1,2-Dichloroethene",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,10061-01-5,"cis-1,3-Dichloropropene",mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,110-82-7,Cyclohexane,mg/kg,0.16,Prelim,<0.16,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,124-48-1,Dibromochloromethane,mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,75-71-8,Dichlorodifluoromethane (CFC 12),mg/kg,0.16,Prelim,<0.16,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,100-41-4,Ethylbenzene,mg/kg,0.048,Prelim,<0.048,J,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,98-82-8,Isopropylbenzene,mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,179601-23-1,"m,p-Xylenes",mg/kg,0.097,Prelim,0.098,,Yes
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,79-20-9,Methyl acetate,mg/kg,0.4,Prelim,<0.4,J,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,1634-04-4,Methyl tert-butyl ether,mg/kg,0.048,Prelim,<0.048,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,108-87-2,Methylcyclohexane,mg/kg,0.048,Prelim,0.16,,Yes
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,75-09-2,Methylene chloride,mg/kg,0.4,Prelim,<0.4,U,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,95-47-6,o-Xylene,mg/kg,0.048,Prelim,0.099,,Yes
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,100-42-5,Styrene,mg/kg,0.048,Prelim,<0.048,J,No
+SO3,EPD-SO3-230210,2/10/2023,11:15,Soil,Soil,Soil,SW8260D,1330-20-7,"Xylenes, Total",mg/kg,0.15,Prelim,0.2,,Yes
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8015D,DROC10C28,DRO (C10-C28),mg/Kg,9600,Prelim,37000,,Yes
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8015D,OROC28C40,ORO (C28-C40),mg/Kg,9600,Prelim,460000,,Yes
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8015D,GROC6C10,GRO (C6-C10),mg/kg,150,Prelim,4600,,Yes
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,92-52-4,"1,1`-Biphenyl",mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,95-94-3,"1,2,4,5-Tetrachlorobenzene",mg/Kg,710,Prelim,<710,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,123-91-1,"1,4-Dioxane",mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,90-12-0,1-Methylnaphthalene,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,108-60-1,"2,2`-Oxybis(1-chloropropane)",mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,58-90-2,"2,3,4,6-Tetrachlorophenol",mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,95-95-4,"2,4,5-Trichlorophenol",mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,88-06-2,"2,4,6-Trichlorophenol",mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,120-83-2,"2,4-Dichlorophenol",mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,105-67-9,"2,4-Dimethylphenol",mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,51-28-5,"2,4-Dinitrophenol",mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,121-14-2,"2,4-Dinitrotoluene",mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,606-20-2,"2,6-Dinitrotoluene",mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,91-58-7,2-Chloronaphthalene,mg/Kg,14,Prelim,<14,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,95-57-8,2-Chlorophenol,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,91-57-6,2-Methylnaphthalene,mg/Kg,14,Prelim,<14,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,101-55-3,4-Bromophenyl phenyl ether,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,59-50-7,4-Chloro-3-methylphenol,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,106-47-8,4-Chloroaniline,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,7005-72-3,4-Chlorophenyl phenyl ether,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,100-01-6,4-Nitroaniline,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,100-02-7,4-Nitrophenol,mg/Kg,710,Prelim,<710,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,83-32-9,Acenaphthene,mg/Kg,14,Prelim,<14,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,208-96-8,Acenaphthylene,mg/Kg,14,Prelim,<14,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,98-86-2,Acetophenone,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,120-12-7,Anthracene,mg/Kg,14,Prelim,<14,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,1912-24-9,Atrazine,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,100-52-7,Benzaldehyde,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,56-55-3,Benzo(a)anthracene,mg/Kg,14,Prelim,<14,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,50-32-8,Benzo(a)pyrene,mg/Kg,14,Prelim,<14,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,105-60-2,Caprolactam,mg/Kg,710,Prelim,<710,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,86-74-8,Carbazole,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,218-01-9,Chrysene,mg/Kg,14,Prelim,<14,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,53-70-3,"Dibenzo(a,h)anthracene",mg/Kg,14,Prelim,<14,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,132-64-9,Dibenzofuran,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,84-66-2,Diethyl phthalate,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,131-11-3,Dimethyl phthalate,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,84-74-2,Di-n-butyl phthalate,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,117-84-0,Di-n-octyl phthalate,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,206-44-0,Fluoranthene,mg/Kg,14,Prelim,24,,Yes
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,86-73-7,Fluorene,mg/Kg,14,Prelim,<14,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,118-74-1,Hexachlorobenzene,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,87-68-3,Hexachlorobutadiene,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,77-47-4,Hexachlorocyclopentadiene,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,67-72-1,Hexachloroethane,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,193-39-5,"Indeno(1,2,3-cd)pyrene",mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,78-59-1,Isophorone,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,91-20-3,Naphthalene,mg/Kg,14,Prelim,<14,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,98-95-3,Nitrobenzene,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,621-64-7,N-Nitrosodi-n-propylamine,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,86-30-6,N-Nitrosodiphenylamine,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,87-86-5,Pentachlorophenol,mg/Kg,710,Prelim,<710,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,85-01-8,Phenanthrene,mg/Kg,14,Prelim,24,,Yes
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,108-95-2,Phenol,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,129-00-0,Pyrene,mg/Kg,14,Prelim,<14,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,110-86-1,Pyridine,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,75-35-4,"1,1-Dichloroethene",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,87-61-6,"1,2,3-Trichlorobenzene",mg/kg,18,Prelim,<18,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,96-18-4,"1,2,3-Trichloropropane",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,120-82-1,"1,2,4-Trichlorobenzene",mg/kg,18,Prelim,<18,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,95-63-6,"1,2,4-Trimethylbenzene",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,96-12-8,"1,2-Dibromo 3-Chloropropane",mg/kg,18,Prelim,<18,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,106-93-4,"1,2-Dibromoethane",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,95-50-1,"1,2-Dichlorobenzene",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,107-06-2,"1,2-Dichloroethane",mg/kg,18,Prelim,<18,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,78-87-5,"1,2-Dichloropropane",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,108-67-8,"1,3,5-Trimethylbenzene",mg/kg,18,Prelim,<18,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,541-73-1,"1,3-Dichlorobenzene",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,106-46-7,"1,4-Dichlorobenzene",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,78-93-3,2-Butanone,mg/kg,37,Prelim,<37,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,591-78-6,2-Hexanone,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,108-10-1,4-Methyl-2-pentanone,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,67-64-1,Acetone,mg/kg,18,Prelim,<18,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,71-43-2,Benzene,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,74-97-5,Bromochloromethane,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,75-27-4,Bromodichloromethane,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,75-25-2,Bromoform,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,74-83-9,Bromomethane,mg/kg,18,Prelim,<18,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,95-48-7,2-Methylphenol,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,88-74-4,2-Nitroaniline,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,88-75-5,2-Nitrophenol,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,84989-04-8,3&4-Methylphenol,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,91-94-1,"3,3´-Dichlorobenzidine",mg/Kg,710,Prelim,<710,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,99-09-2,3-Nitroaniline,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,534-52-1,"4,6-Dinitro-2-methylphenol",mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,205-99-2,Benzo(b)fluoranthene,mg/Kg,14,Prelim,<14,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,191-24-2,"Benzo(g,h,i)perylene",mg/Kg,14,Prelim,<14,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,207-08-9,Benzo(k)fluoranthene,mg/Kg,14,Prelim,<14,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,111-91-1,Bis(2-chloroethoxy)methane,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,111-44-4,Bis(2-chloroethyl)ether,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,117-81-7,Bis(2-ethylhexyl)phthalate,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW846 8270D,85-68-7,Butyl benzyl phthalate,mg/Kg,71,Prelim,<71,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,71-55-6,"1,1,1-Trichloroethane",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,79-34-5,"1,1,2,2-Tetrachloroethane",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,79-00-5,"1,1,2-Trichloroethane",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,96-12-8,"1,2-Dibromo 3-Chloropropane",mg/kg,30,Prelim,<30,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,106-93-4,"1,2-Dibromoethane",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,95-50-1,"1,2-Dichlorobenzene",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,107-06-2,"1,2-Dichloroethane",mg/kg,30,Prelim,<30,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,78-87-5,"1,2-Dichloropropane",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,108-67-8,"1,3,5-Trimethylbenzene",mg/kg,30,Prelim,<30,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,541-73-1,"1,3-Dichlorobenzene",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,75-25-2,Bromoform,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,74-83-9,Bromomethane,mg/kg,30,Prelim,<30,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,75-15-0,Carbon disulfide,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,56-23-5,Carbon Tetrachloride,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,108-90-7,Chlorobenzene,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,75-00-3,Chloroethane,mg/kg,30,Prelim,<30,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,67-66-3,Chloroform,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,74-87-3,Chloromethane,mg/kg,30,Prelim,<30,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,156-59-2,"cis-1,2-Dichloroethene",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,10061-01-5,"cis-1,3-Dichloropropene",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,110-82-7,Cyclohexane,mg/kg,30,Prelim,<30,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,124-48-1,Dibromochloromethane,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,75-71-8,Dichlorodifluoromethane (CFC 12),mg/kg,30,Prelim,<30,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,100-41-4,Ethylbenzene,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,98-82-8,Isopropylbenzene,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,179601-23-1,"m,p-Xylenes",mg/kg,18,Prelim,<18,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,79-20-9,Methyl acetate,mg/kg,75,Prelim,<75,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,1634-04-4,Methyl tert-butyl ether,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,108-87-2,Methylcyclohexane,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,75-09-2,Methylene chloride,mg/kg,75,Prelim,<75,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,95-47-6,o-Xylene,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,100-42-5,Styrene,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,127-18-4,Tetrachloroethene,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8015D,DROC10C28,DRO (C10-C28),mg/Kg,9600,Prelim,<9600,J,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8015D,OROC28C40,ORO (C28-C40),mg/Kg,9600,Prelim,74000,,Yes
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,76-13-1,"1,1,2-Trichlorotrifluoroethane",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,75-34-3,"1,1-Dichloroethane",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,75-35-4,"1,1-Dichloroethene",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,87-61-6,"1,2,3-Trichlorobenzene",mg/kg,30,Prelim,<30,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,96-18-4,"1,2,3-Trichloropropane",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,120-82-1,"1,2,4-Trichlorobenzene",mg/kg,30,Prelim,<30,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,95-63-6,"1,2,4-Trimethylbenzene",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,106-46-7,"1,4-Dichlorobenzene",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,78-93-3,2-Butanone,mg/kg,60,Prelim,<60,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,591-78-6,2-Hexanone,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,108-10-1,4-Methyl-2-pentanone,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,67-64-1,Acetone,mg/kg,30,Prelim,<30,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,71-43-2,Benzene,mg/kg,9,Prelim,130,,Yes
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,74-97-5,Bromochloromethane,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,75-27-4,Bromodichloromethane,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,108-88-3,Toluene,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,156-60-5,"trans-1,2-Dichloroethene",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,10061-02-6,"trans-1,3-Dichloropropene",mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,79-01-6,Trichloroethene,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,75-69-4,Trichlorofluoromethane,mg/kg,9,Prelim,<9,U,No
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,75-01-4,Vinyl Chloride,mg/kg,9,Prelim,11,,Yes
+BP1,EPD-SD02-BP1-230208,2/8/2023,18:40,Sediment,Sediment,Soil,SW8260D,1330-20-7,"Xylenes, Total",mg/kg,27,Prelim,<27,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8015D,GROC6C10,GRO (C6-C10),mg/kg,91,Prelim,4100,,Yes
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,92-52-4,"1,1`-Biphenyl",mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,95-94-3,"1,2,4,5-Tetrachlorobenzene",mg/Kg,630,Prelim,<630,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,123-91-1,"1,4-Dioxane",mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,90-12-0,1-Methylnaphthalene,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,121-14-2,"2,4-Dinitrotoluene",mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,606-20-2,"2,6-Dinitrotoluene",mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,91-58-7,2-Chloronaphthalene,mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,95-57-8,2-Chlorophenol,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,91-57-6,2-Methylnaphthalene,mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,95-48-7,2-Methylphenol,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,88-74-4,2-Nitroaniline,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,88-75-5,2-Nitrophenol,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,84989-04-8,3&4-Methylphenol,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,91-94-1,"3,3´-Dichlorobenzidine",mg/Kg,630,Prelim,<630,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,99-09-2,3-Nitroaniline,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,534-52-1,"4,6-Dinitro-2-methylphenol",mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,101-55-3,4-Bromophenyl phenyl ether,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,59-50-7,4-Chloro-3-methylphenol,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,120-12-7,Anthracene,mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,1912-24-9,Atrazine,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,100-52-7,Benzaldehyde,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,56-55-3,Benzo(a)anthracene,mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,50-32-8,Benzo(a)pyrene,mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,205-99-2,Benzo(b)fluoranthene,mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,191-24-2,"Benzo(g,h,i)perylene",mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,207-08-9,Benzo(k)fluoranthene,mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,111-91-1,Bis(2-chloroethoxy)methane,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,111-44-4,Bis(2-chloroethyl)ether,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,117-81-7,Bis(2-ethylhexyl)phthalate,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,85-68-7,Butyl benzyl phthalate,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,105-60-2,Caprolactam,mg/Kg,630,Prelim,<630,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,86-74-8,Carbazole,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,108-60-1,"2,2`-Oxybis(1-chloropropane)",mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,58-90-2,"2,3,4,6-Tetrachlorophenol",mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,95-95-4,"2,4,5-Trichlorophenol",mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,88-06-2,"2,4,6-Trichlorophenol",mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,120-83-2,"2,4-Dichlorophenol",mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,105-67-9,"2,4-Dimethylphenol",mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,51-28-5,"2,4-Dinitrophenol",mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,106-47-8,4-Chloroaniline,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,7005-72-3,4-Chlorophenyl phenyl ether,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,100-01-6,4-Nitroaniline,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,100-02-7,4-Nitrophenol,mg/Kg,630,Prelim,<630,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,83-32-9,Acenaphthene,mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,208-96-8,Acenaphthylene,mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,98-86-2,Acetophenone,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,218-01-9,Chrysene,mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,53-70-3,"Dibenzo(a,h)anthracene",mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,132-64-9,Dibenzofuran,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,84-66-2,Diethyl phthalate,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,131-11-3,Dimethyl phthalate,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,84-74-2,Di-n-butyl phthalate,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,117-84-0,Di-n-octyl phthalate,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,78-59-1,Isophorone,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,91-20-3,Naphthalene,mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,98-95-3,Nitrobenzene,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,621-64-7,N-Nitrosodi-n-propylamine,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,86-30-6,N-Nitrosodiphenylamine,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,87-86-5,Pentachlorophenol,mg/Kg,630,Prelim,<630,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,85-01-8,Phenanthrene,mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,108-95-2,Phenol,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,129-00-0,Pyrene,mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,110-86-1,Pyridine,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,75-15-0,Carbon disulfide,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,56-23-5,Carbon Tetrachloride,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,108-90-7,Chlorobenzene,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,75-00-3,Chloroethane,mg/kg,18,Prelim,<18,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,67-66-3,Chloroform,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,74-87-3,Chloromethane,mg/kg,18,Prelim,<18,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,156-59-2,"cis-1,2-Dichloroethene",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,10061-01-5,"cis-1,3-Dichloropropene",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,108-87-2,Methylcyclohexane,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,75-09-2,Methylene chloride,mg/kg,46,Prelim,<46,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,95-47-6,o-Xylene,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,100-42-5,Styrene,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,127-18-4,Tetrachloroethene,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,108-88-3,Toluene,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,156-60-5,"trans-1,2-Dichloroethene",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,10061-02-6,"trans-1,3-Dichloropropene",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,206-44-0,Fluoranthene,mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,86-73-7,Fluorene,mg/Kg,13,Prelim,<13,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,118-74-1,Hexachlorobenzene,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,87-68-3,Hexachlorobutadiene,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,77-47-4,Hexachlorocyclopentadiene,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,67-72-1,Hexachloroethane,mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW846 8270D,193-39-5,"Indeno(1,2,3-cd)pyrene",mg/Kg,63,Prelim,<63,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,71-55-6,"1,1,1-Trichloroethane",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,79-34-5,"1,1,2,2-Tetrachloroethane",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,79-00-5,"1,1,2-Trichloroethane",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,76-13-1,"1,1,2-Trichlorotrifluoroethane",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,75-34-3,"1,1-Dichloroethane",mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,110-82-7,Cyclohexane,mg/kg,18,Prelim,<18,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,124-48-1,Dibromochloromethane,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,75-71-8,Dichlorodifluoromethane (CFC 12),mg/kg,18,Prelim,<18,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,100-41-4,Ethylbenzene,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,98-82-8,Isopropylbenzene,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,179601-23-1,"m,p-Xylenes",mg/kg,11,Prelim,<11,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,79-20-9,Methyl acetate,mg/kg,46,Prelim,<46,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,1634-04-4,Methyl tert-butyl ether,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,79-01-6,Trichloroethene,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,75-69-4,Trichlorofluoromethane,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,75-01-4,Vinyl Chloride,mg/kg,5.5,Prelim,<5.5,U,No
+BP1,EPD-SD03-BP1-230208,2/8/2023,19:00,Sediment,Sediment,Soil,SW8260D,1330-20-7,"Xylenes, Total",mg/kg,16,Prelim,<16,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8015D,DROC10C28,DRO (C10-C28),mg/Kg,13,Prelim,100,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8015D,OROC28C40,ORO (C28-C40),mg/Kg,13,Prelim,160,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8015D,GROC6C10,GRO (C6-C10),mg/kg,12,Prelim,300,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,92-52-4,"1,1`-Biphenyl",mg/kg,0.044,Prelim,<0.044,J,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,95-94-3,"1,2,4,5-Tetrachlorobenzene",mg/kg,0.22,Prelim,<0.22,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,123-91-1,"1,4-Dioxane",mg/kg,0.22,Prelim,<0.22,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,90-12-0,1-Methylnaphthalene,mg/kg,0.0089,Prelim,0.029,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,108-60-1,"2,2`-Oxybis(1-chloropropane)",mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,58-90-2,"2,3,4,6-Tetrachlorophenol",mg/kg,0.09,Prelim,<0.09,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,95-95-4,"2,4,5-Trichlorophenol",mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,88-06-2,"2,4,6-Trichlorophenol",mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,120-83-2,"2,4-Dichlorophenol",mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,105-67-9,"2,4-Dimethylphenol",mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,51-28-5,"2,4-Dinitrophenol",mg/kg,0.89,Prelim,<0.89,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,121-14-2,"2,4-Dinitrotoluene",mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,606-20-2,"2,6-Dinitrotoluene",mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,91-58-7,2-Chloronaphthalene,mg/kg,0.0089,Prelim,<0.0089,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,95-57-8,2-Chlorophenol,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,91-57-6,2-Methylnaphthalene,mg/kg,0.0089,Prelim,0.038,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,95-48-7,2-Methylphenol,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,88-74-4,2-Nitroaniline,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,88-75-5,2-Nitrophenol,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,84989-04-8,3&4-Methylphenol,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,91-94-1,"3,3´-Dichlorobenzidine",mg/kg,0.22,Prelim,<0.22,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,99-09-2,3-Nitroaniline,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,59-50-7,4-Chloro-3-methylphenol,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,106-47-8,4-Chloroaniline,mg/kg,0.09,Prelim,<0.09,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,7005-72-3,4-Chlorophenyl phenyl ether,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,83-32-9,Acenaphthene,mg/kg,0.0089,Prelim,0.025,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,208-96-8,Acenaphthylene,mg/kg,0.0089,Prelim,0.029,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,98-86-2,Acetophenone,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,120-12-7,Anthracene,mg/kg,0.0089,Prelim,0.043,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,1912-24-9,Atrazine,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,100-52-7,Benzaldehyde,mg/kg,0.09,Prelim,<0.09,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,56-55-3,Benzo(a)anthracene,mg/kg,0.0089,Prelim,0.13,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,534-52-1,"4,6-Dinitro-2-methylphenol",mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,101-55-3,4-Bromophenyl phenyl ether,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,100-01-6,4-Nitroaniline,mg/kg,0.22,Prelim,<0.22,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,100-02-7,4-Nitrophenol,mg/kg,0.22,Prelim,<0.22,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,86-74-8,Carbazole,mg/kg,0.044,Prelim,<0.044,J,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,218-01-9,Chrysene,mg/kg,0.0089,Prelim,0.12,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,53-70-3,"Dibenzo(a,h)anthracene",mg/kg,0.0089,Prelim,0.023,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,108-10-1,4-Methyl-2-pentanone,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,67-64-1,Acetone,mg/kg,3,Prelim,8,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,71-43-2,Benzene,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,74-97-5,Bromochloromethane,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,75-27-4,Bromodichloromethane,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,75-15-0,Carbon disulfide,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,56-23-5,Carbon Tetrachloride,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,108-90-7,Chlorobenzene,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,75-00-3,Chloroethane,mg/kg,3,Prelim,<3,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,67-66-3,Chloroform,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,10061-01-5,"cis-1,3-Dichloropropene",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,110-82-7,Cyclohexane,mg/kg,3,Prelim,<3,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,124-48-1,Dibromochloromethane,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,50-32-8,Benzo(a)pyrene,mg/kg,0.0089,Prelim,0.11,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,205-99-2,Benzo(b)fluoranthene,mg/kg,0.0089,Prelim,0.19,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,191-24-2,"Benzo(g,h,i)perylene",mg/kg,0.0089,Prelim,0.068,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,207-08-9,Benzo(k)fluoranthene,mg/kg,0.0089,Prelim,0.069,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,111-91-1,Bis(2-chloroethoxy)methane,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,111-44-4,Bis(2-chloroethyl)ether,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,117-81-7,Bis(2-ethylhexyl)phthalate,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,85-68-7,Butyl benzyl phthalate,mg/kg,0.09,Prelim,<0.09,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,105-60-2,Caprolactam,mg/kg,0.09,Prelim,<0.09,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,132-64-9,Dibenzofuran,mg/kg,0.044,Prelim,<0.044,J,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,84-66-2,Diethyl phthalate,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,131-11-3,Dimethyl phthalate,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,84-74-2,Di-n-butyl phthalate,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,117-84-0,Di-n-octyl phthalate,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,206-44-0,Fluoranthene,mg/kg,0.0089,Prelim,0.18,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,86-73-7,Fluorene,mg/kg,0.0089,Prelim,0.028,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,118-74-1,Hexachlorobenzene,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,87-68-3,Hexachlorobutadiene,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,77-47-4,Hexachlorocyclopentadiene,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,67-72-1,Hexachloroethane,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,193-39-5,"Indeno(1,2,3-cd)pyrene",mg/kg,0.0089,Prelim,0.084,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,78-59-1,Isophorone,mg/kg,0.22,Prelim,<0.22,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,91-20-3,Naphthalene,mg/kg,0.0089,Prelim,0.038,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,98-95-3,Nitrobenzene,mg/kg,0.22,Prelim,<0.22,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,621-64-7,N-Nitrosodi-n-propylamine,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,86-30-6,N-Nitrosodiphenylamine,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,87-86-5,Pentachlorophenol,mg/kg,0.044,Prelim,0.064,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,85-01-8,Phenanthrene,mg/kg,0.0089,Prelim,0.12,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,108-95-2,Phenol,mg/kg,0.044,Prelim,<0.044,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,129-00-0,Pyrene,mg/kg,0.0089,Prelim,0.26,,Yes
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8270E,110-86-1,Pyridine,mg/kg,0.22,Prelim,<0.22,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,71-55-6,"1,1,1-Trichloroethane",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,79-34-5,"1,1,2,2-Tetrachloroethane",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,79-00-5,"1,1,2-Trichloroethane",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,76-13-1,"1,1,2-Trichlorotrifluoroethane",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,75-34-3,"1,1-Dichloroethane",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,75-35-4,"1,1-Dichloroethene",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,87-61-6,"1,2,3-Trichlorobenzene",mg/kg,3,Prelim,<3,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,96-18-4,"1,2,3-Trichloropropane",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,120-82-1,"1,2,4-Trichlorobenzene",mg/kg,3,Prelim,<3,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,95-63-6,"1,2,4-Trimethylbenzene",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,96-12-8,"1,2-Dibromo 3-Chloropropane",mg/kg,3,Prelim,<3,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,106-93-4,"1,2-Dibromoethane",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,95-50-1,"1,2-Dichlorobenzene",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,107-06-2,"1,2-Dichloroethane",mg/kg,3,Prelim,<3,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,78-87-5,"1,2-Dichloropropane",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,108-67-8,"1,3,5-Trimethylbenzene",mg/kg,3,Prelim,<3,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,541-73-1,"1,3-Dichlorobenzene",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,106-46-7,"1,4-Dichlorobenzene",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,78-93-3,2-Butanone,mg/kg,6.1,Prelim,<6.1,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,591-78-6,2-Hexanone,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,75-69-4,Trichlorofluoromethane,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,75-01-4,Vinyl Chloride,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,1330-20-7,"Xylenes, Total",mg/kg,2.7,Prelim,<2.7,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,75-25-2,Bromoform,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,74-83-9,Bromomethane,mg/kg,3,Prelim,<3,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,74-87-3,Chloromethane,mg/kg,3,Prelim,<3,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,156-59-2,"cis-1,2-Dichloroethene",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,75-71-8,Dichlorodifluoromethane (CFC 12),mg/kg,3,Prelim,<3,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,100-41-4,Ethylbenzene,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,98-82-8,Isopropylbenzene,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,1634-04-4,Methyl tert-butyl ether,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,108-87-2,Methylcyclohexane,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,75-09-2,Methylene chloride,mg/kg,7.6,Prelim,<7.6,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,95-47-6,o-Xylene,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,100-42-5,Styrene,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,10061-02-6,"trans-1,3-Dichloropropene",mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,79-01-6,Trichloroethene,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,179601-23-1,"m,p-Xylenes",mg/kg,1.8,Prelim,<1.8,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,79-20-9,Methyl acetate,mg/kg,7.6,Prelim,<7.6,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,127-18-4,Tetrachloroethene,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,108-88-3,Toluene,mg/kg,0.91,Prelim,<0.91,U,No
+SO1,EPD-SO1-230210,2/10/2023,10:40,Soil,Soil,Soil,SW8260D,156-60-5,"trans-1,2-Dichloroethene",mg/kg,0.91,Prelim,<0.91,U,No
