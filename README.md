@@ -1,15 +1,34 @@
 # Ohio_and_World_Health
 After the recent train derailment in Ohio I want to take a deep dive on some of the effects on the surrounding agriculture. I want to explore how the toxic chemicals unleashed during this incident may effect Ohio's immediate population and perhaps the exports coming from Ohio to the world.
 
-## What we know
+## What we know about Ohio
 CNN and other major news reporting agencies have made it known that the toxic chemical vinyl chloride was of concern as being part of the cargo that went up in flames after the train derailment. When the EPA finally got to the scene and started performing sampling of the air, water and soil it became even more evident that vinyl chloride was not the only chemical to be worried about. 
 
-In approximately 20 days the following chemicals surpassed reporting levels over 10 times for air levels: CFC 113, CFC 12, Benzene, Chloroform, other benzene derivatives. All of these chemicals are known to cause significant irritation at or above levels established by OSHA and some like the CFCs and Benzene derivatives are known carcinogens. Chloroform is also on the list which is a known carcinogen when inhaled or swallowed.   
+In approximately 20 days post derailment the following chemicals found in the air surpassed reporting levels at least 10 times or more: CFC 113, CFC 12, Benzene, Chloroform, other benzene derivatives. All of these chemicals are known to cause significant irritation at or above levels established by OSHA and some like CFCs and Benzene derivatives are known carcinogens. Chloroform is also on the list which is a known carcinogen when inhaled or swallowed.   
 
-Testing done on water revealed water pH, temperature and additional pollutants passing reporting levels establisehd by the EPA. Chemicals such as: vinyl chloride, crude oil components - DRO, ORO, GRO, Pentachlorophenol - a wood preservative and others. 
+Testing done on water revealed water pH and temperature changes above reporting levels and additional pollutants passing reporting levels establisehd by the EPA. Chemicals such as: vinyl chloride, crude oil components - DRO, ORO, GRO, Pentachlorophenol - a wood preservative and others. Soil testing revealed chemicals similar to those found in the water. 
 
-Soil testing revealed chemicals similar to those found in the water. 
+Based on these findings it is apparent that the health and wellbeing of those in Ohio and downwind of the derailment are likely to be affected.  
 
+## Exports from Ohio
+
+With the increase in pollutants in the immediate environment and atmosphere it is likely that these toxic compounds are going to leach into areas of agriculture posing a long-term health threat to items grown and exported around the East Palestine area and probably around Ohio as a whole. Data from the Deparment of Agriculture in Ohio reveals that Ohio is the No. 7 leading exporter of wine and grape products in the US. Comapanies like the JM Smucker Company, one of the leading makers of jelly and peanut butter have huge operations located in Ohio. In 2017, government data revealed that Ohio was the No. 7 producer of soybeans in the US, the No. 9 producer of corn and the No. 10 producer of feeds and other feed grains. 
+
+This has not been verified, but if these pollutants coming from the train derailments make their way into the soil and groundwater in Ohio and the surrounding areas it is safe to assume they will also make their way into our food. 
+
+In 2021 a government released report from Ohio shows that it is the No 12. exporter of oil seed and miscellaneous grain. Grain and oilseeds are identified as cereals suitable for food for human beings. Things like barley, buckwheat, canola, corn, dry and edible beans, quinoa, rye, sesame, wheat etc, are on the list. So many of these 
+
+
+## Word of Caution
+It would be advised to check food labels prior to purchasing and to note that food coming from the Ohio area could very well be contaminated with harsh pollutants. Even if the state of Ohio steps up its quality assurance and testing there will always be a small amount of error that gets through the cracks. For the foreseeable future it may be best to avoid some of the products coming from Ohio. You can bet that the larger comapanies like Smuckers and Folgers will do what they can to ensure their products are available in supermarkets, but as a consumer it may be best to avoid these labels for a while.  
+
+## List of Major Companies in Ohio
+
+1. Kroger
+2. Smuckers
+3. Tim Hortons
+4. Proctor and Gamble
+5. Lakeview Farms - The Cheesecake Factory at Home
 
 
 
@@ -26,7 +45,7 @@ Water: 02/04/2023 - 02/08/2023
                          
 Soil: 02/08/2023 - 02/10/2023 
 
-#### Air analytes that passed reporting levels
+### Air analytes that passed reporting levels
 
 |         Air Analyte                         |Count|
 |:-------------------------------------------:|:---:|
@@ -123,6 +142,9 @@ Soil: 02/08/2023 - 02/10/2023
 | ('2-Methylnaphthalene', 'Yes')    |   1 |
 | ('o-Xylene', 'Yes')               |   1 |
 
+### Personal Opinon
+What really sticks out to me is that Benzene is listed as passing reporting levels multiple times in the air. Going back to organic chemistry in college I remember benzene being one of the most volatile and reactive compounds to exist. It can basically start destroying DNA upon contact and I am sure other chemicals on these lists can do the same. The benzene reached reporting levels much more than vinyl chloride during the time of testing. 
+
 #### Sources
 1. https://www.epa.gov/oh/water-sampling-data-east-palestine-ohio-train-derailment
 2. https://www.epa.gov/oh/soil-and-sediment-sampling-data-east-palestine-ohio-train-derailment
@@ -139,3 +161,7 @@ Soil: 02/08/2023 - 02/10/2023
 10. https://www.bls.gov/spotlight/2021/industry-on-tap-wineries/home.htm
 11. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2873017/
 12. https://response.epa.gov/sites/15933/files/TRAIN%2032N%20-%20EAST%20PALESTINE%20-%20derail%20list%20Norfolk%20Southern%20document.pdf
+13. https://ustr.gov/map/state-benefits/oh
+14. https://www.dnb.com/business-directory/company-information.other_food_manufacturing.us.ohio.html
+15. https://www.niche.com/places-to-work/search/food-beverage/s/ohio/
+16. https://www.agmrc.org/commodities-products/grains-oilseeds
